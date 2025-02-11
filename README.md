@@ -1,0 +1,1 @@
+# Analisis-Pengaruh-Attention-pada-Model-LSTM-dan-RNN-untuk-Tugas-Teks-Generasi
